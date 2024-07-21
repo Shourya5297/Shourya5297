@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Shourya Kumar Gupta
-A Software developer passionate about delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve UX with 2 years' experience in web development and cross platform mobile development using flutter.
+A Software developer passionate about delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve UX with 4 years' experience in web development and cross platform mobile development using flutter.
 
 
 ## 🌐 Socials:
