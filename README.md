@@ -1,5 +1,14 @@
-# Hi 👋🏻, I'm Shourya Kumar Gupta
-A Software developer passionate about delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve UX with 4 years' experience in web development and cross platform mobile development using flutter.
+👋 Hi, I'm Shourya Kumar Gupta, a passionate Full Stack Developer with 4+ years of experience in building scalable web and mobile applications using React and Node.js. I enjoy creating efficient, user-focused solutions and am always exploring the latest technologies in web and mobile development.
+
+🔧 Technologies & Tools:
+
+Frontend: React, JavaScript, HTML, CSS, Redux
+Backend: Node.js, Express.js, MongoDB, PostgreSQL
+Mobile: Flutter, Dart
+Cloud: AWS, GCP, Azure
+Version Control: Git
+
+🌱 Always learning and growing—currently diving deeper into cloud platforms and building high-performance apps.
 
 
 ## 🌐 Socials:
